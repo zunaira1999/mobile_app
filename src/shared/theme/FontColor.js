@@ -27,7 +27,7 @@ const colors = StyleSheet.create({
         borderRadius:RFValue(50),
         marginHorizontal:RFValue(20)
     },
-    AvatarImag:{
+    Demo:{
         height:RFValue(90),
         width:RFValue(100),
         borderRadius:RFValue(50),
